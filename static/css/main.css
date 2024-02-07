@@ -413,7 +413,9 @@ h1{
         width: 60svw;
         height: 40svh;
     }
-
+    .image{
+      height: 40svh
+      width: 60svw;
 
 }
 
